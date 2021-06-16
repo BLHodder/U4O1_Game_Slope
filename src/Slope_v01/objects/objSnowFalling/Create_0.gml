@@ -13,16 +13,6 @@ part_type_speed(snowpart, 0.05, 0.01, 0, 0)
 part_type_direction(snowpart, 250, 330, 0, 30)
 part_type_life(snowpart, 0, 500)
 
-//snow on ground
-/*
-snowsplash=part_type_create()
-part_type_shape(snowsplash, pt_shape_pixel)
-part_type_death(snowpart, 1, snowsplash)
-part_type_life(snowsplash, room_speed*6, room_speed*6)
-part_type_alpha3(snowsplash, 1, 1, 0)
-*/
-
-
 //emitter
 snowemit=part_emitter_create(snowsys)
 part_emitter_region(snowsys, snowemit, objButton.x-1200, objButton.x+1200, objButton.y-160, objButton.y-160,ps_shape_line, ps_distr_linear)

@@ -1,4 +1,7 @@
 {
+  "ConfigValues": {
+    "Basic": {"option_windows_copyright_info":"Slope","option_windows_company_info":"Slope",},
+  },
   "option_windows_display_name": "Created with GameMaker Studio 2",
   "option_windows_executable_name": "${project_name}.exe",
   "option_windows_version": "1.0.0.0",

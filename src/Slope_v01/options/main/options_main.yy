@@ -1,4 +1,7 @@
 {
+  "ConfigValues": {
+    "Basic": {"option_lastchanged":"16 June 2021 13:59:17","option_sci_usesci":"true",},
+  },
   "option_gameguid": "7ff1598e-f6fa-4840-bab2-1e5c8a426c00",
   "option_game_speed": 60,
   "option_mips_for_3d_textures": false,

@@ -28,7 +28,7 @@
     "path": "folders/Objects/grpLevelDesign.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objFloor",
+  "name": "objSnowFloor",
   "tags": [],
   "resourceType": "GMObject",
 }
