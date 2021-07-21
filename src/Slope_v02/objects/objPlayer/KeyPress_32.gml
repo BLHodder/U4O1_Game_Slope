@@ -1,0 +1,1 @@
+boolPlayerMove = true; 
