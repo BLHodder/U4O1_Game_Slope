@@ -1,0 +1,1 @@
+room_goto(rmLevel1); //move to level 1 

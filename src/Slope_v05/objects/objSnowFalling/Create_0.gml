@@ -21,6 +21,14 @@ part_emitter_region(snowsys, snowemit, /*objButton.*/x-1200, /*objButton.*/x+120
 part_emitter_stream(snowsys, snowemit, snowpart, 5)
 
 
+if window_get_fullscreen() {
+	window_set_fullscreen(true);
+} else {
+	window_set_fullscreen(true);
+}
+
+
+
 
 
 
