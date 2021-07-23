@@ -12,6 +12,7 @@ boolClouds = true;  //allows for cloud animation
 image_angle = 90; //sets sprite angle
 
 
+
 listPoints = ds_list_create();
 enum ePoint {
 	x,
