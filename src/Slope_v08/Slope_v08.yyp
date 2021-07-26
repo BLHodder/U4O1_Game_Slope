@@ -100,10 +100,10 @@
     ],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rmLevel2","path":"rooms/rmLevel2/rmLevel2.yy",},},
     {"roomId":{"name":"rmMenu","path":"rooms/rmMenu/rmMenu.yy",},},
     {"roomId":{"name":"rmOptions","path":"rooms/rmOptions/rmOptions.yy",},},
     {"roomId":{"name":"rmLevel1","path":"rooms/rmLevel1/rmLevel1.yy",},},
+    {"roomId":{"name":"rmLevel2","path":"rooms/rmLevel2/rmLevel2.yy",},},
     {"roomId":{"name":"rmEnterName","path":"rooms/rmEnterName/rmEnterName.yy",},},
     {"roomId":{"name":"rmScores","path":"rooms/rmScores/rmScores.yy",},},
   ],
