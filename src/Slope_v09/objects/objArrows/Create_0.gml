@@ -1,0 +1,1 @@
+strText = "Rotate Player";
