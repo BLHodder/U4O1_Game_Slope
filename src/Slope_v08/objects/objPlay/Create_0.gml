@@ -1,0 +1,1 @@
+image_index = 0; //sets image to first frame in sprite
