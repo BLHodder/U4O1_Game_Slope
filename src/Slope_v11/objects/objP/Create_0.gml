@@ -1,0 +1,1 @@
+strText = "Press 'p' to pause, esc to unpause";
